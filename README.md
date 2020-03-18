@@ -1,2 +1,1 @@
-# cdn-for-w1l
-cdn-for-w1l
+# CDN for w1l丨CDN 资源储存库
